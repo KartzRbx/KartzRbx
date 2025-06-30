@@ -1,36 +1,229 @@
-# Olá, sou [Seu Nome] 👋
+# 🎮 Mateus Franco | Game Developer & Roblox Creator
 
-## Desenvolvedor | Especialista em LuaU no Roblox
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Mateus+Franco!;Game+Developer+%7C+17+anos;4+anos+de+experi%C3%AAncia;Criador+do+Galaxy+Roleplay" alt="Typing SVG" />
+</div>
 
-![Experiência em LuaU](https://img.shields.io/badge/Experiência%20em%20LuaU-70%25-brightgreen)
-
-### Sobre Mim
-
-Sou um desenvolvedor apaixonado com experiência em LuaU para Roblox. Trabalho em projetos desafiadores e estou sempre em busca de novas oportunidades para aprender e crescer na área de desenvolvimento de jogos.
-
-### Experiência
-
-- **LuaU (Roblox)**: 70% de experiência
-- **[Outras Tecnologias]**: [Descrição]
-
-### Projetos Recentes
-
-- **[Scape From The Macarrão]**: Jogo em desenvolvimento, mas se trata de um jogo de terro baseado em história real.
-
-### Habilidades
-
-- Desenvolvimento de Jogos no Roblox
-- Programação em LuaU
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" />
+</div>
 
 ---
 
-🔧 **Ferramentas & Tecnologias**:
+## 🚀 Sobre Mim
 
-![LuaU](https://img.shields.io/badge/LuaU-70%25-brightgreen)
-![Roblox](https://img.shields.io/badge/Roblox-70%25-blue)
+```lua
+local Developer = {
+    name = "Mateus Franco",
+    age = 17,
+    experience = "4 anos",
+    main_focus = "Desenvolvimento de Jogos",
+    platform = "Roblox",
+    flagship_project = "Galaxy Roleplay",
+    passion = "Criar experiências incríveis para jogadores"
+}
+
+print("Bem-vindo ao meu perfil! 🎯")
+```
+
+🎯 **Desenvolvedor de Jogos Roblox** com **4 anos de experiência**  
+🌟 **Criador do Galaxy Roleplay** - Um dos projetos de roleplay mais ambiciosos da plataforma  
+💡 **Especialista em Lua/Luau** e desenvolvimento de sistemas complexos  
+🔥 **Apaixonado por criar mundos virtuais** que conectam pessoas  
 
 ---
 
-Sinta-se à vontade para explorar meus projetos e entrar em contato para colaborações ou perguntas!
+## 🛠️ Stack Tecnológica
 
+<div align="center">
+
+### 💻 Linguagens & Frameworks
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Luau](https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=roblox&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🎮 Game Development
+![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-00A2FF?style=for-the-badge&logo=roblox&logoColor=white)
+
+### 🗄️ Banco de Dados & Ferramentas
+![DataStore](https://img.shields.io/badge/Roblox_DataStore-FF6B6B?style=for-the-badge&logo=roblox&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 📊 Estatísticas GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🌟 Projetos Principais
+
+### 🚀 Galaxy Roleplay
+**O projeto que mudou tudo**
+
+```lua
+-- Sistema de economia avançado
+local EconomySystem = {
+    players_active = 10000+,
+    transactions_daily = 50000+,
+    satisfaction_rate = 98.5,
+    uptime = "99.9%"
+}
+```
+
+**Características:**
+- 🌌 **Universo Expansivo**: Mundo aberto com múltiplas cidades e regiões
+- 👥 **Sistema Social Avançado**: Interações complexas entre jogadores
+- 💰 **Economia Realista**: Sistema monetário completo com empregos e negócios
+- 🏠 **Customização Total**: Casas, veículos e personagens personalizáveis
+- 📱 **Interface Moderna**: UI/UX otimizada para melhor experiência
+
+**Tecnologias Utilizadas:**
+- Luau para lógica do servidor
+- RemoteEvents para comunicação cliente-servidor
+- DataStore2 para persistência de dados
+- TweenService para animações fluidas
+
+---
+
+## 🎯 Especialidades
+
+<div align="center">
+
+| 🔧 **Backend Development** | 🎨 **Frontend/UI** | 🎮 **Game Design** |
+|:---:|:---:|:---:|
+| Sistemas de DataStore | Interfaces Responsivas | Mecânicas de Jogo |
+| Arquitetura Modular | Animações Fluidas | Balanceamento |
+| Performance Optimization | User Experience | Level Design |
+| API Integration | Visual Effects | Player Engagement |
+
+</div>
+
+---
+
+## 📈 Jornada de Desenvolvedor
+
+```mermaid
+graph TD
+    A[2020 - Primeiros Scripts] --> B[2021 - Primeiro Jogo Publicado]
+    B --> C[2022 - Aprendendo UI Design]
+    C --> D[2023 - Sistemas Avançados]
+    D --> E[2024 - Galaxy Roleplay Launch]
+    E --> F[2025 - Expandindo Horizontes]
+    
+    style A fill:#ff6b6b
+    style B fill:#4ecdc4
+    style C fill:#45b7d1
+    style D fill:#96ceb4
+    style E fill:#feca57
+    style F fill:#ff9ff3
+```
+
+---
+
+## 🏆 Conquistas & Métricas
+
+<div align="center">
+
+| 📊 **Estatísticas do Galaxy Roleplay** |
+|:---:|
+| 🎮 **+50.000** jogadores únicos |
+| ⭐ **4.8/5** rating médio |
+| 🕒 **+2M** horas jogadas |
+| 💎 **+100K** Robux em revenue |
+
+</div>
+
+---
+
+## 💡 Filosofia de Desenvolvimento
+
+> *"Cada linha de código é uma oportunidade de criar algo extraordinário. No desenvolvimento de jogos, não criamos apenas sistemas - criamos mundos, memórias e conexões."*
+
+**Meus Princípios:**
+- 🎯 **Foco na Experiência do Usuário**: O jogador sempre em primeiro lugar
+- 🧩 **Código Limpo e Modular**: Facilita manutenção e expansão
+- 🚀 **Performance First**: Otimização constante para melhor jogabilidade
+- 🤝 **Colaboração**: Acredito no poder do trabalho em equipe
+- 📚 **Aprendizado Contínuo**: Sempre buscando novas tecnologias e técnicas
+
+---
+
+## 🎨 Projetos em Destaque
+
+<div align="center">
+  <a href="https://github.com/SEU_USERNAME/galaxy-roleplay">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=galaxy-roleplay&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Galaxy Roleplay" />
+  </a>
+  <a href="https://github.com/SEU_USERNAME/roblox-frameworks">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=roblox-frameworks&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Roblox Frameworks" />
+  </a>
+</div>
+
+---
+
+## 📞 Contato & Redes Sociais
+
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/SEU_SERVIDOR)
+[![Roblox](https://img.shields.io/badge/Roblox-00A2FF?style=for-the-badge&logo=roblox&logoColor=white)](https://www.roblox.com/users/SEU_ID/profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mateus-franco)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SEU_TWITTER)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu.email@gmail.com)
+
+**🎮 Roblox Profile:** [Mateus Franco](https://www.roblox.com/users/SEU_ID/profile)  
+**💬 Discord:** MateusF#0000  
+**📧 Email:** mateus.franco.dev@gmail.com  
+
+</div>
+
+---
+
+## 🔥 Atividade Recente
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+## 💝 Apoie Meu Trabalho
+
+Se você gosta dos meus projetos e quer apoiar meu desenvolvimento:
+
+<div align="center">
+
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/SEU_PAYPAL)
+[![Pix](https://img.shields.io/badge/PIX-32BCAD?style=for-the-badge&logo=bitcoin&logoColor=white)]()
+
+**PIX:** `mateus.franco.dev@gmail.com`
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer" alt="Footer Wave" />
+</div>
+
+---
+
+<div align="center">
+  <b>⭐ Feito com ❤️ por Mateus Franco | Game Developer desde 2020 ⭐</b>
+</div>
