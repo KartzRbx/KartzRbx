@@ -111,22 +111,19 @@ local EconomySystem = {
 
 ## 📈 Jornada de Desenvolvedor
 
-```mermaid
 graph TD
     A[2020 - Primeiros Scripts] --> B[2021 - Primeiro Jogo Publicado]
     B --> C[2022 - Aprendendo UI Design]
     C --> D[2023 - Sistemas Avançados]
-    D --> E[2024 - Galaxy Roleplay Launch]
+    D --> E[2024 - Galaxy Roleplay]
     E --> F[2025 - Expandindo Horizontes]
     
-    style A fill:#ff6b6b
-    style B fill:#4ecdc4
-    style C fill:#45b7d1
-    style D fill:#96ceb4
-    style E fill:#feca57
-    style F fill:#ff9ff3
-```
-
+    style A fill:#cc3333,color:#000000
+    style B fill:#2d8a80,color:#000000
+    style C fill:#2980b9,color:#000000
+    style D fill:#5a9472,color:#000000
+    style E fill:#d4a843,color:#000000
+    style F fill:#b366cc,color:#000000
 ---
 
 ## 🏆 Conquistas & Métricas
@@ -135,10 +132,10 @@ graph TD
 
 | 📊 **Estatísticas do Galaxy Roleplay** |
 |:---:|
-| 🎮 **+50.000** jogadores únicos |
+| 🎮 **+2000** jogadores únicos |
 | ⭐ **4.8/5** rating médio |
-| 🕒 **+2M** horas jogadas |
-| 💎 **+100K** Robux em revenue |
+| 🕒 **+9k** horas jogadas |
+| 💎 **+1000** Robux em revenue |
 
 </div>
 
@@ -160,10 +157,10 @@ graph TD
 ## 🎨 Projetos em Destaque
 
 <div align="center">
-  <a href="https://github.com/SEU_USERNAME/galaxy-roleplay">
+  <a href="https://github.com/KartzRbx/galaxy-roleplay">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=KartzRbx&repo=galaxy-roleplay&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Galaxy Roleplay" />
   </a>
-  <a href="https://github.com/SEU_USERNAME/roblox-frameworks">
+  <a href="https://github.com/KartzRbx/roblox-frameworks">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=KartzRbx&repo=roblox-frameworks&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Roblox Frameworks" />
   </a>
 </div>
