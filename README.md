@@ -1,10 +1,6 @@
 # 🎮 Mateus Franco | Game Developer & Roblox Creator
 
 <div align="center">
-  <img src="https://i.imgur.com/Epgeto5.png?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Mateus+Franco!;Game+Developer+%7C+17+anos;4+anos+de+experi%C3%AAncia;Criador+do+Galaxy+Roleplay" alt="Typing SVG" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KartzRbx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" />
 </div>
 
