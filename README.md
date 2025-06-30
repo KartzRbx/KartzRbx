@@ -109,6 +109,7 @@ local EconomySystem = {
 
 ---
 
+```
 ## 📈 Jornada de Desenvolvedor
 
 graph TD
@@ -124,6 +125,8 @@ graph TD
     style D fill:#5a9472,color:#000000
     style E fill:#d4a843,color:#000000
     style F fill:#b366cc,color:#000000
+```
+
 ---
 
 ## 🏆 Conquistas & Métricas
