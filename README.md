@@ -109,9 +109,10 @@ local EconomySystem = {
 
 ---
 
-```
+
 ## 📈 Jornada de Desenvolvedor
 
+```mermaid
 graph TD
     A[2020 - Primeiros Scripts] --> B[2021 - Primeiro Jogo Publicado]
     B --> C[2022 - Aprendendo UI Design]
@@ -125,7 +126,6 @@ graph TD
     style D fill:#5a9472,color:#000000
     style E fill:#d4a843,color:#000000
     style F fill:#b366cc,color:#000000
-```
 
 ---
 
