@@ -1,11 +1,11 @@
 # 🎮 Mateus Franco | Game Developer & Roblox Creator
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Mateus+Franco!;Game+Developer+%7C+17+anos;4+anos+de+experi%C3%AAncia;Criador+do+Galaxy+Roleplay" alt="Typing SVG" />
+  <img src="https://i.imgur.com/Epgeto5.png?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Mateus+Franco!;Game+Developer+%7C+17+anos;4+anos+de+experi%C3%AAncia;Criador+do+Galaxy+Roleplay" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KartzRbxE&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" />
 </div>
 
 ---
@@ -59,11 +59,11 @@ print("Bem-vindo ao meu perfil! 🎯")
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartzRbx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KartzRbx&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak" />
 </div>
 
 ---
@@ -165,10 +165,10 @@ graph TD
 
 <div align="center">
   <a href="https://github.com/SEU_USERNAME/galaxy-roleplay">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=galaxy-roleplay&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Galaxy Roleplay" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KartzRbx&repo=galaxy-roleplay&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Galaxy Roleplay" />
   </a>
   <a href="https://github.com/SEU_USERNAME/roblox-frameworks">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=roblox-frameworks&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Roblox Frameworks" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KartzRbx&repo=roblox-frameworks&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Roblox Frameworks" />
   </a>
 </div>
 
@@ -178,15 +178,15 @@ graph TD
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/SEU_SERVIDOR)
-[![Roblox](https://img.shields.io/badge/Roblox-00A2FF?style=for-the-badge&logo=roblox&logoColor=white)](https://www.roblox.com/users/SEU_ID/profile)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]([https://discord.gg/SEU_SERVIDOR](https://discord.gg/9eCuHS2aQ3))
+[![Roblox](https://img.shields.io/badge/Roblox-00A2FF?style=for-the-badge&logo=roblox&logoColor=white)](https://www.roblox.com/users/5285698320/profile)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mateus-franco)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SEU_TWITTER)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu.email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gtofranco1@gmail.com)
 
-**🎮 Roblox Profile:** [Mateus Franco](https://www.roblox.com/users/SEU_ID/profile)  
-**💬 Discord:** MateusF#0000  
-**📧 Email:** mateus.franco.dev@gmail.com  
+**🎮 Roblox Profile:** [Mateus Franco](https://www.roblox.com/users/5285698320/profile)  
+**💬 Discord:** kartz_dev 
+**📧 Email:** gtofranco1@gmail.com 
 
 </div>
 
@@ -205,10 +205,10 @@ Se você gosta dos meus projetos e quer apoiar meu desenvolvimento:
 
 <div align="center">
 
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/SEU_PAYPAL)
-[![Pix](https://img.shields.io/badge/PIX-32BCAD?style=for-the-badge&logo=bitcoin&logoColor=white)]()
 
-**PIX:** `mateus.franco.dev@gmail.com`
+[![Pix](https://img.shields.io/badge/PIX-32BCAD?style=for-the-badge&logo=bitcoin&logoColor=white)](gtofranco1@gmail.com)
+
+**PIX:** `gtofranco1@gmail.com`
 
 </div>
 
