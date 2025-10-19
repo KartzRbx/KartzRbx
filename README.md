@@ -162,7 +162,7 @@ graph TD
 
 <div align="center">
   <a href="[https://github.com/KartzRbx/galaxy-roleplay](https://github.com/KartzRbx/Galaxy-Roleplay)">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KartzRbx&repo=galaxy-roleplay&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Galaxy Roleplay" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KartzRbx&repo=Galaxy-Roleplay&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Galaxy Roleplay" />
 </div>
 
 ---
