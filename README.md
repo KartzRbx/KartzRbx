@@ -161,12 +161,8 @@ graph TD
 ## 🎨 Projetos em Destaque
 
 <div align="center">
-  <a href="https://github.com/KartzRbx/galaxy-roleplay">
+  <a href="[https://github.com/KartzRbx/galaxy-roleplay](https://github.com/KartzRbx/Galaxy-Roleplay)">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=KartzRbx&repo=galaxy-roleplay&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Galaxy Roleplay" />
-  </a>
-  <a href="https://github.com/KartzRbx/roblox-frameworks">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KartzRbx&repo=roblox-frameworks&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Roblox Frameworks" />
-  </a>
 </div>
 
 ---
