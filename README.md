@@ -161,8 +161,9 @@ graph TD
 ## 🎨 Projetos em Destaque
 
 <div align="center">
-  <a href="[https://github.com/KartzRbx/galaxy-roleplay](https://github.com/KartzRbx/Galaxy-Roleplay)">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KartzRbx&repo=Galaxy-Roleplay&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Galaxy Roleplay" />
+  <a href="https://github.com/KartzRbx/galaxy-roleplay">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KartzRbx&repo=galaxy-roleplay&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Galaxy Roleplay" />
+  </a>
 </div>
 
 ---
@@ -177,7 +178,7 @@ graph TD
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SEU_TWITTER)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gtofranco1@gmail.com)
 
-**🎮 Roblox Profile:** [Mateus Franco](https://www.roblox.com/users/5285698320/profile)  
+**🎮 Roblox Profile:** [Kartz Dev](https://www.roblox.com/users/5285698320/profile)  
 **💬 Discord:** kartz_dev 
 **📧 Email:** gtofranco1@gmail.com 
 
