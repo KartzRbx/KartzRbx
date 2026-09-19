@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3200&pause=900&color=34D399&center=true&vCenter=true&width=760&lines=Desenvolvedor+Roblox+%E2%80%A2+5%2B+anos;Criador+de+CL%2B%2B+e+Cluaupp;C%2B%2B+%7C+CL%2B%2B+%7C+Luau+%7C+Lua;TypeScript+%7C+RobloxTS+%7C+JavaScript;Sistemas%2C+dados+e+networking" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3200&pause=900&color=34D399&center=true&vCenter=true&width=760&lines=Roblox+Developer+%E2%80%A2+5%2B+years;Creator+of+CL%2B%2B+and+Cluaupp;C%2B%2B+%7C+CL%2B%2B+%7C+Luau+%7C+Lua;TypeScript+%7C+RobloxTS+%7C+JavaScript;Systems%2C+data%2C+and+networking" alt="Typing Animation" />
 
 <br>
 
@@ -25,22 +25,22 @@
 
 <div align="center">
 
-### `✦ um pouco sobre mim ✦`
+### `✦ a little about me ✦`
 
 </div>
 
 <img align="right" width="270" src="https://capsule-render.vercel.app/api?type=rounded&height=180&color=0a1612&text=%3C%2F%3E&fontColor=34D399&fontSize=80&fontAlignY=55&stroke=10B981&strokeWidth=1" />
 
-Sou **KartzDev**, desenvolvedor Roblox com **mais de 5 anos** de experiência (desde junho de 2021). Trabalho em **sistemas de jogo**, **arquitetura client-server** e **tooling** fora do Studio.
+I'm **KartzDev**, a Roblox developer with **5+ years** of experience (since June 2021). I work on **game systems**, **client-server architecture**, and **tooling** outside Studio.
 
-Hoje meu foco está em:
+Today I focus on:
 
-* Linguagem **CL++** (C++ → Luau) e a CLI **Cluaupp**
-* Dados de jogador (ProfileStore / session lock / replicação em buffer)
-* Networking de baixa latência e sistemas de combate
-* Workflow com **Rojo**, **TypeScript / RobloxTS** e **Luau** nativo
+* The **CL++** language (C++ → Luau) and the **Cluaupp** CLI
+* Player data (ProfileStore / session lock / buffer replication)
+* Low-latency networking and combat systems
+* Workflow with **Rojo**, **TypeScript / RobloxTS**, and native **Luau**
 
-Também programo em **C++**, **Lua**, **JavaScript** e **TypeScript**. Atuo na **Zero Interactive** e já colaborei com estúdios como CS Studios X, Galorys, Gamevance, Debi Games e Frozen Studios.
+I also write **C++**, **Lua**, **JavaScript**, and **TypeScript**. I work at **Zero Interactive** and have collaborated with studios such as CS Studios X, Galorys, Gamevance, Debi Games, and Frozen Studios.
 
 <br clear="right"/>
 
@@ -48,9 +48,9 @@ Também programo em **C++**, **Lua**, **JavaScript** e **TypeScript**. Atuo na *
 
 <div align="center">
 
-## `♡ TECNOLOGIAS`
+## `♡ TECHNOLOGIES`
 
-### Linguagens
+### Languages
 
 <img src="https://skillicons.dev/icons?i=cpp,rust,ts,js,lua,nodejs&theme=dark" />
 
@@ -58,7 +58,7 @@ Também programo em **C++**, **Lua**, **JavaScript** e **TypeScript**. Atuo na *
 
 ### Tooling & workflow
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,html,css,docker&theme=dark" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=robloxstudio,git,github,githubdesktop,cursor,roblox&theme=dark" alt="Roblox Studio, Git, GitHub, GitHub Desktop, Cursor, Roblox" />
 
 </div>
 
@@ -66,7 +66,7 @@ Também programo em **C++**, **Lua**, **JavaScript** e **TypeScript**. Atuo na *
 
 <div align="center">
 
-## `⌁ MEU STACK`
+## `⌁ MY STACK`
 
 </div>
 
@@ -77,27 +77,27 @@ Também programo em **C++**, **Lua**, **JavaScript** e **TypeScript**. Atuo na *
 ### Backend & runtime
 
 ```text
-Luau / Lua     ████████████████████  principal
-CL++           ████████████████████  principal
-C++            ████████████████░░░░  forte
-TypeScript     ███████████████░░░░░  forte
-RobloxTS       ███████████████░░░░░  forte
-JavaScript     ██████████████░░░░░░  experiência
+Luau / Lua     ████████████████████  primary
+CL++           ████████████████████  primary
+C++            ████████████████░░░░  strong
+TypeScript     ███████████████░░░░░  strong
+RobloxTS       ███████████████░░░░░  strong
+JavaScript     ██████████████░░░░░░  experienced
 Rust           ████████████░░░░░░░░  CL++ compiler
 ```
 
 </td>
 <td width="50%" valign="top">
 
-### Sistemas Roblox
+### Roblox systems
 
 ```text
-Dados / Keep   ████████████████████  ProfileStore
+Data / Keep    ████████████████████  ProfileStore
 Networking     ██████████████████░░  buffers, remotes
-ECS / combate  ████████████████░░░░  Hive, Shift
+ECS / combat   ████████████████░░░░  Hive, Shift
 UI / HUD       ███████████████░░░░░  Gleam, Fusion
 Rojo / CLI     ████████████████████  Cluaupp
-Studio         ████████████████░░░░  5+ anos
+Studio         ████████████████░░░░  5+ years
 ```
 
 </td>
@@ -108,7 +108,7 @@ Studio         ████████████████░░░░  5+ 
 
 <div align="center">
 
-## `⚙ ferramentas que fazem parte do meu dia`
+## `⚙ tools I use every day`
 
 </div>
 
@@ -120,7 +120,7 @@ Studio         ████████████████░░░░  5+ 
 <img src="https://img.shields.io/badge/RobloxTS-0A1612?style=for-the-badge&logo=roblox&logoColor=34D399"/>
 <img src="https://img.shields.io/badge/Rojo-0A1612?style=for-the-badge&logo=roblox&logoColor=10B981"/>
 <img src="https://img.shields.io/badge/Git-0A1612?style=for-the-badge&logo=git&logoColor=34D399"/>
-<img src="https://img.shields.io/badge/VS%20Code-0A1612?style=for-the-badge&logo=visualstudiocode&logoColor=34D399"/>
+<img src="https://img.shields.io/badge/Cursor-0A1612?style=for-the-badge&logo=cursor&logoColor=34D399"/>
 
 </div>
 
@@ -128,9 +128,9 @@ Studio         ████████████████░░░░  5+ 
 
 <div align="center">
 
-## `✧ projetos`
+## `✧ projects`
 
-<sub>Alguns dos projetos que representam a jornada — linguagem, CLI, dados e gameplay.</sub>
+<sub>A few projects that represent the journey — language, CLI, data, and gameplay.</sub>
 
 </div>
 
@@ -149,12 +149,12 @@ Studio         ████████████████░░░░  5+ 
 
 <br><br>
 
-Linguagem inspirada em C++ que compila para Luau. Sintaxe, IntelliSense e codegen — o compilador do ecossistema Roblox externo.
+A C++-inspired language that compiles to Luau. Syntax, IntelliSense, and codegen — the compiler for the external Roblox ecosystem.
 
 <br><br>
 
 <a href="https://github.com/KartzRbx/CLPP">
-<img src="https://img.shields.io/badge/VER%20PROJETO-10B981?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-10B981?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -171,12 +171,12 @@ Linguagem inspirada em C++ que compila para Luau. Sintaxe, IntelliSense e codege
 
 <br><br>
 
-CLI no fluxo do RobloxTS: `cluaupp init/build`, Rojo, e bibliotecas nativas (Keep, Flare, Sweep, Spark, Axiom) sem JSON no hot path.
+CLI in the RobloxTS workflow: `cluaupp init/build`, Rojo, and native libraries (Keep, Flare, Sweep, Spark, Axiom) with no JSON on the hot path.
 
 <br><br>
 
 <a href="https://github.com/KartzRbx/Cluaupp">
-<img src="https://img.shields.io/badge/VER%20PROJETO-10B981?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-10B981?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -195,12 +195,12 @@ CLI no fluxo do RobloxTS: `cluaupp init/build`, Rojo, e bibliotecas nativas (Kee
 
 <br><br>
 
-Persistência com autosave, session lock e versionamento. Base do Keep no Cluaupp — dados de jogador em escala.
+Persistence with autosave, session lock, and versioning. The foundation of Keep in Cluaupp — player data at scale.
 
 <br><br>
 
 <a href="https://github.com/KartzRbx/DataServiceV2">
-<img src="https://img.shields.io/badge/VER%20PROJETO-10B981?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-10B981?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -217,12 +217,12 @@ Persistência com autosave, session lock e versionamento. Base do Keep no Cluaup
 
 <br><br>
 
-Sistema de combate escrito em CL++: hitboxes, estados e replicação pensados para o runtime Roblox.
+A combat system written in CL++: hitboxes, states, and replication designed for the Roblox runtime.
 
 <br><br>
 
 <a href="https://github.com/KartzRbx/CombatSystemCLPP">
-<img src="https://img.shields.io/badge/VER%20PROJETO-10B981?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-10B981?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -237,7 +237,7 @@ Sistema de combate escrito em CL++: hitboxes, estados e replicação pensados pa
 
 ## `♡ contribution garden`
 
-<img src="https://raw.githubusercontent.com/KartzRbx/KartzRbx/output/github-contribution-grid-snake-dark.svg" alt="Snake animation das contribuições" width="95%" />
+<img src="https://raw.githubusercontent.com/KartzRbx/KartzRbx/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="95%" />
 
 </div>
 
@@ -245,7 +245,7 @@ Sistema de combate escrito em CL++: hitboxes, estados e replicação pensados pa
 
 <div align="center">
 
-## `⌁ vamos conversar?`
+## `⌁ let's talk`
 
 <br>
 
@@ -274,6 +274,6 @@ Sistema de combate escrito em CL++: hitboxes, estados e replicação pensados pa
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:10B981,50:042F2E,100:0a1612&section=footer" width="100%" />
 
-<sub>Feito com código, C++ e um toque de verde. </> </sub>
+<sub>Made with code, C++, and a touch of green. </> </sub>
 
 </div>
